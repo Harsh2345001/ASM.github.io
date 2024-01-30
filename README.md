@@ -13,8 +13,11 @@ whose direction cosines are nx, ny and nz. Consider a small tetrahedron at P wit
 
 Since the size of the tetrahedron considered is very small and in the limit as we are going to make h tend to zero, we shall speak in terms of the average stresses
 over the faces. Let **Tn** be the resultant stress vector on face ABC. This can be resolved into components *Tnx*, *Tny*, *Tnz* parallel to the three axes x, y and z. On the three faces, the rectangular stress components are &sigma;x, &tau;xy, &tau;xz,  &sigma;y, &tau;yz, &tau;yx,  &sigma;z, &tau;zx, &tau;zy
-                         <center>Area of BPC = projection of area ABC on the yz plane</center> 
-                         <br>                         
+                         <center>Area of BPC = projection of area ABC on the yz plane</center>                         
                          <center>= Anx</center>
+                        <center> Area of CPA = projection of area ABC on the xz plane</center>
+                         <center>= Any</center>
+                         <center>Area of APB = projection of area ABC on the xy plane</center>
+                        <center> = Anz</center>
 
 
